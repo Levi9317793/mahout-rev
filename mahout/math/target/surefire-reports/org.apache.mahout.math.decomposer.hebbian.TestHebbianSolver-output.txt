@@ -1,0 +1,803 @@
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Finding 50 singular vectors of matrix with 1000 rows, via Hebbian
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -3182.047722240392, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 0, eigenvalue: 135.66394338692282
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -6332.099561802352, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 1, eigenvalue: 163.82447069230713
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -7579.231332767864, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 2, eigenvalue: 160.3033591317368
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -4581.383268333033, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 3, eigenvalue: 114.11156711443282
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -3548.8794682659327, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 4, eigenvalue: 127.79996971738473
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -2361.95032687202, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 5, eigenvalue: 111.3967206325513
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -5197.5871295733305, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 6, eigenvalue: 137.98322608727906
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1674.0377674884066, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 7, eigenvalue: 98.17513652383865
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1317.9659850865937, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 8, eigenvalue: 89.67526924128096
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1749.3693550339133, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 9, eigenvalue: 97.97483451780366
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1590.139324609843, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 10, eigenvalue: 94.50508494709442
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1759.7783367989189, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 11, eigenvalue: 95.64752254149977
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1427.2611326036067, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 12, eigenvalue: 90.66200990120569
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -2030.6010872103836, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 13, eigenvalue: 96.19012722590399
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -2322.612251290242, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 14, eigenvalue: 86.32273973260523
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -2644.008180458172, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 15, eigenvalue: 110.27614723313143
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1978.6162228108508, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 16, eigenvalue: 88.59334928999381
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1382.4597138941208, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 17, eigenvalue: 82.96941746743448
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1892.880939333532, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 18, eigenvalue: 91.5382581418479
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1586.3125970165463, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 19, eigenvalue: 86.19790386749747
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -2127.3108001625583, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 20, eigenvalue: 79.35373420240882
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1886.8564953426085, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 21, eigenvalue: 88.57947924619467
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1726.871071476141, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 22, eigenvalue: 79.52616814656368
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1451.2079980266467, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 23, eigenvalue: 82.09753103652479
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1503.4383213272433, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 24, eigenvalue: 80.67083524568997
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1253.06580888, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 25, eigenvalue: 76.35499951037815
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1253.5880565935506, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 26, eigenvalue: 71.1312459225241
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1823.3002471659581, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 27, eigenvalue: 79.62997828140423
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1037.6462363262042, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 28, eigenvalue: 75.62688911627387
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1593.060478451963, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 29, eigenvalue: 73.9429515562363
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1388.069409695218, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 30, eigenvalue: 77.0480822793979
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1569.5900253714015, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 31, eigenvalue: 75.74391979111411
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1378.3864941524057, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 32, eigenvalue: 78.33837740395684
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1406.8417117121373, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 33, eigenvalue: 74.52634719440059
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -803.7369607638492, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 34, eigenvalue: 66.06394954912199
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1347.8504629356012, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 35, eigenvalue: 75.4416047520309
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1076.8288577364879, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 36, eigenvalue: 72.01825563868053
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1266.446216421875, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 37, eigenvalue: 72.40777117587348
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1361.1202332491725, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 38, eigenvalue: 71.38201295457057
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1053.6541309795705, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 39, eigenvalue: 68.32026226099359
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1173.9452683835354, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 40, eigenvalue: 69.9496161079666
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -853.5251586247444, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 41, eigenvalue: 66.66359823065308
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -962.4593529463301, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 42, eigenvalue: 66.81345456379536
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1359.4291654800033, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 43, eigenvalue: 67.51775843312457
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -1227.924360474153, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 44, eigenvalue: 67.61630972119515
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -831.3371019108541, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 45, eigenvalue: 63.12278546779361
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -887.2302761296694, convergence target is: 1.0E-5
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 46, eigenvalue: 63.57923865555612
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:46 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -784.0478888887314, convergence target is: 1.0E-5
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 47, eigenvalue: 63.326968352613044
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -791.7687172278137, convergence target is: 1.0E-5
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 48, eigenvalue: 60.960373545998735
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: First pass through the corpus, no need to check convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 2 passes through the corpus, checking convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Verifier not finished, making another pass...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Have made 3 passes through the corpus, checking convergence...
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Has 1 - cosAngle: -860.043467013662, convergence target is: 1.0E-5
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Found eigenvector 49, eigenvalue: 63.1696009059767
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.020276428728636442 for eigen 0
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.015470211549365787 for eigen 1
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.02070279922198759 for eigen 2
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.0029737563889528085 for eigen 3
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.014669181876503457 for eigen 4
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.02039142359941848 for eigen 5
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.013890459828707513 for eigen 6
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.0241737833011052 for eigen 7
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.027694958279565363 for eigen 8
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.021803344468124042 for eigen 9
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.030302749727004752 for eigen 10
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.023514972334133133 for eigen 11
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.023984546321884848 for eigen 12
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.01227325338759433 for eigen 13
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.023755168401028648 for eigen 14
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.02650320565422737 for eigen 15
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.01609268827861099 for eigen 16
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.024481192861067647 for eigen 17
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.01788546749676767 for eigen 18
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.017569373188640602 for eigen 19
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.024119930770090336 for eigen 20
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.018202480655779674 for eigen 21
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.028866558441053458 for eigen 22
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.018830557228483813 for eigen 23
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.020812684992869812 for eigen 24
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.020277220716906075 for eigen 25
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.019101942562687158 for eigen 26
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.022098695343033437 for eigen 27
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.0326996511067259 for eigen 28
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.016314732288472245 for eigen 29
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.011684323143197894 for eigen 30
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.015880074023109203 for eigen 31
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.016839989412852807 for eigen 32
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.019814222700535566 for eigen 33
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.024653554803768962 for eigen 34
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.022818701515845752 for eigen 35
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.01989603508027904 for eigen 36
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.018587039525174043 for eigen 37
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.01618105433424666 for eigen 38
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.013644574330232806 for eigen 39
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.018971122865816592 for eigen 40
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.020914261348717877 for eigen 41
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.031093249206191165 for eigen 42
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.019777023453115716 for eigen 43
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.019857110528214927 for eigen 44
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.021688160966202186 for eigen 45
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.02708473747425022 for eigen 46
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.017792764501002645 for eigen 47
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.02115678555371925 for eigen 48
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: the eigen-error: 0.016865566708303303 for eigen 49
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+2012-12-7 10:07:47 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0:[]
+Avg solving (Hebbian) time in ms: 796

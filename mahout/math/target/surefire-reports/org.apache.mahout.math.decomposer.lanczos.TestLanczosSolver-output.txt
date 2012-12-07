@@ -1,0 +1,716 @@
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Finding 80 singular vectors of matrix with 100 rows, via Lanczos
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 1 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 2 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 3 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 4 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 5 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 6 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 7 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 8 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 9 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 10 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 11 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 12 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 13 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 14 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 15 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 16 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 17 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 18 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 19 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 20 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 21 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 22 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 23 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 24 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 25 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 26 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 27 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 28 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 29 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 30 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 31 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 32 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 33 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 34 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 35 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 36 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 37 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 38 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 39 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 40 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 41 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 42 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 43 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 44 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 45 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 46 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 47 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 48 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 49 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 50 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 51 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 52 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 53 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 54 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 55 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 56 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 57 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 58 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 59 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 60 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 61 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 62 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 63 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 64 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 65 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 66 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 67 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 68 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 69 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 70 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 71 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 72 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 73 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 74 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 75 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 76 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 77 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 78 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 79 passes through the corpus so far...
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Lanczos iteration complete - now to diagonalize the tri-diagonal auxiliary matrix.
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 0 found with eigenvalue 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 1 found with eigenvalue 2.046292131205252E-7
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 2 found with eigenvalue 8.93786387194942E-7
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 3 found with eigenvalue 2.4511076502347024E-6
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 4 found with eigenvalue 5.674536236008488E-6
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 5 found with eigenvalue 8.188457529572732E-6
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 6 found with eigenvalue 1.2650725817923499E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 7 found with eigenvalue 1.725656047918668E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 8 found with eigenvalue 2.3911673694250246E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 9 found with eigenvalue 2.8413112990830624E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 10 found with eigenvalue 4.127048134683644E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 11 found with eigenvalue 4.952658946450845E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 12 found with eigenvalue 5.63579075887121E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 13 found with eigenvalue 6.547097290861853E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 14 found with eigenvalue 7.506064462459931E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 15 found with eigenvalue 8.475898830958795E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 16 found with eigenvalue 9.988637781285721E-5
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 17 found with eigenvalue 1.1434543452192604E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 18 found with eigenvalue 1.3013646116904367E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 19 found with eigenvalue 1.3619260851797468E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 20 found with eigenvalue 1.4980127779751332E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 21 found with eigenvalue 1.588331053867575E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 22 found with eigenvalue 1.791703963035035E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 23 found with eigenvalue 1.8860138868162103E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 24 found with eigenvalue 1.9743669727331553E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 25 found with eigenvalue 2.078364292642642E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 26 found with eigenvalue 2.279535553012902E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 27 found with eigenvalue 2.406031249208246E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 28 found with eigenvalue 2.571116886230465E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 29 found with eigenvalue 2.642485845343027E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 30 found with eigenvalue 2.7856369987782964E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 31 found with eigenvalue 2.8931169744551805E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 32 found with eigenvalue 3.0923778901364204E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 33 found with eigenvalue 3.3440199316892363E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 34 found with eigenvalue 3.4512196552544464E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 35 found with eigenvalue 3.7337509487741035E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 36 found with eigenvalue 4.075226915331533E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 37 found with eigenvalue 4.166259069616226E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 38 found with eigenvalue 4.4163554936529805E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 39 found with eigenvalue 4.988689909242643E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 40 found with eigenvalue 5.271617146506057E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 41 found with eigenvalue 5.388796867166954E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 42 found with eigenvalue 5.66143197011959E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 43 found with eigenvalue 6.282913849806021E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 44 found with eigenvalue 6.30724812873384E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 45 found with eigenvalue 7.191266984807426E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 46 found with eigenvalue 7.471508093112325E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 47 found with eigenvalue 7.873658415106227E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 48 found with eigenvalue 8.32644676243956E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 49 found with eigenvalue 8.755189656501869E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 50 found with eigenvalue 8.963100965933827E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 51 found with eigenvalue 0.0010096179469811309
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 52 found with eigenvalue 0.001120005564895002
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 53 found with eigenvalue 0.0011960175551677945
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 54 found with eigenvalue 0.0013106024327802811
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 55 found with eigenvalue 0.0013380373697749017
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 56 found with eigenvalue 0.0015374557767098083
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 57 found with eigenvalue 0.001633871781808669
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 58 found with eigenvalue 0.001878179911915666
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 59 found with eigenvalue 0.002258339460829023
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 60 found with eigenvalue 0.0024373818311816935
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 61 found with eigenvalue 0.002604618123082183
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 62 found with eigenvalue 0.00306665412145858
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 63 found with eigenvalue 0.00335952668889872
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 64 found with eigenvalue 0.0037470785485304247
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 65 found with eigenvalue 0.004085905862219158
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 66 found with eigenvalue 0.0054152179973131565
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 67 found with eigenvalue 0.006135656626477373
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 68 found with eigenvalue 0.007220343695634625
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 69 found with eigenvalue 0.008012142442610516
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 70 found with eigenvalue 0.010872248978212597
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 71 found with eigenvalue 0.01285169500292306
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 72 found with eigenvalue 0.014415772799915794
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 73 found with eigenvalue 0.020766567913587657
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 74 found with eigenvalue 0.028380654155965183
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 75 found with eigenvalue 0.040018752323325864
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 76 found with eigenvalue 0.05972738806000627
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 77 found with eigenvalue 0.11229610479966325
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 78 found with eigenvalue 0.2582030542335118
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 79 found with eigenvalue 1.0027707094691873
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: LanczosSolver finished.
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 0 : L = 1.0027707094691873, E = 1.0027707094691871
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 1 : L = 0.2582030542335118, E = 0.25820305423351164
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 2 : L = 0.11229610479966325, E = 0.1122961047996629
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 3 : L = 0.05972738806000627, E = 0.059727388060006305
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 4 : L = 0.040018752323325864, E = 0.040018752323325746
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 5 : L = 0.028380654155965183, E = 0.028380654155965024
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 6 : L = 0.020766567913587657, E = 0.02076656791358767
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 7 : L = 0.014415772799915794, E = 0.014415772799915768
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 8 : L = 0.01285169500292306, E = 0.012851695002922962
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 9 : L = 0.010872248978212597, E = 0.01087224897821255
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 10 : L = 0.008012142442610516, E = 0.008012142442610518
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 11 : L = 0.007220343695634625, E = 0.007220343695634618
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -6.661338147750939E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 12 : L = 0.006135656626477373, E = 0.006135656626477356
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 5.551115123125783E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 13 : L = 0.0054152179973131565, E = 0.005415217997313148
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 14 : L = 0.004085905862219158, E = 0.004085905862219156
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 15 : L = 0.0037470785485304247, E = 0.003747078548530413
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 16 : L = 0.00335952668889872, E = 0.0033595266888987226
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 17 : L = 0.00306665412145858, E = 0.0030666541214585904
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 18 : L = 0.002604618123082183, E = 0.002604618123082181
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 19 : L = 0.0024373818311816935, E = 0.002437381831181695
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 20 : L = 0.002258339460829023, E = 0.0022583394608290197
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 21 : L = 0.001878179911915666, E = 0.0018781799119156654
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 22 : L = 0.001633871781808669, E = 0.0016338717818086654
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 23 : L = 0.0015374557767098083, E = 0.0015374557767098113
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 24 : L = 0.0013380373697749017, E = 0.0013380373697749013
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 25 : L = 0.0013106024327802811, E = 0.0013106024327802768
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 26 : L = 0.0011960175551677945, E = 0.0011960175551677871
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 27 : L = 0.001120005564895002, E = 0.0011200055648950022
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 28 : L = 0.0010096179469811309, E = 0.0010096179469811272
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 1.1102230246251565E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 29 : L = 8.963100965933827E-4, E = 8.963100965933763E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 30 : L = 8.755189656501869E-4, E = 8.755189656501763E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 31 : L = 8.32644676243956E-4, E = 8.326446762439527E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 32 : L = 7.873658415106227E-4, E = 7.873658415106189E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -6.661338147750939E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 33 : L = 7.471508093112325E-4, E = 7.471508093112298E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 34 : L = 7.191266984807426E-4, E = 7.191266984807375E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 35 : L = 6.30724812873384E-4, E = 6.307248128733844E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 36 : L = 6.282913849806021E-4, E = 6.282913849806005E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 0.0
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 37 : L = 5.66143197011959E-4, E = 5.6614319701195E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -6.661338147750939E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 38 : L = 5.388796867166954E-4, E = 5.38879686716683E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 39 : L = 5.271617146506057E-4, E = 5.271617146505988E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 40 : L = 4.988689909242643E-4, E = 4.988689909242616E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -2.220446049250313E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 41 : L = 4.4163554936529805E-4, E = 4.416355493652949E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 1.1102230246251565E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 42 : L = 4.166259069616226E-4, E = 4.1662590696162256E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 1.1102230246251565E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 43 : L = 4.075226915331533E-4, E = 4.0752269153323384E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 1.566524687746096E-13
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 44 : L = 3.7337509487741035E-4, E = 3.733750948774078E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: -4.440892098500626E-16
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 45 : L = 3.4512196552544464E-4, E = 3.451219655255472E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 2.6711965972481266E-13
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 46 : L = 3.3440199316892363E-4, E = 3.344019931868172E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 4.811284703976071E-11
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 47 : L = 3.0923778901364204E-4, E = 3.0923779063577036E-4
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: error: 5.273936620753261E-9
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Finding 50 singular vectors of matrix with 800 rows, via Lanczos
+2012-12-7 10:07:48 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 1 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 2 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 3 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 4 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 5 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 6 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 7 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 8 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 9 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 10 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 11 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 12 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 13 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 14 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 15 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 16 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 17 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 18 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 19 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 20 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 21 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 22 passes through the corpus so far...
+2012-12-7 10:07:49 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 23 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 24 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 25 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 26 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 27 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 28 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 29 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 30 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 31 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 32 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 33 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 34 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 35 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 36 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 37 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 38 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 39 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 40 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 41 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 42 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 43 passes through the corpus so far...
+2012-12-7 10:07:50 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 44 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 45 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 46 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 47 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 48 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: 49 passes through the corpus so far...
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Lanczos iteration complete - now to diagonalize the tri-diagonal auxiliary matrix.
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 0 found with eigenvalue 0.0
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 1 found with eigenvalue 0.0012834677500674612
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 2 found with eigenvalue 0.0026380674128377523
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 3 found with eigenvalue 0.004434549667320527
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 4 found with eigenvalue 0.006362588475012025
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 5 found with eigenvalue 0.0080567593535376
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 6 found with eigenvalue 0.00972939632824258
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 7 found with eigenvalue 0.011756549877919926
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 8 found with eigenvalue 0.013849968657235475
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 9 found with eigenvalue 0.015613504588346858
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 10 found with eigenvalue 0.017192080673532503
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 11 found with eigenvalue 0.019269424836335067
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 12 found with eigenvalue 0.021598314700239974
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 13 found with eigenvalue 0.023266937951795626
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 14 found with eigenvalue 0.024360745632311453
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 15 found with eigenvalue 0.025323972333385653
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 16 found with eigenvalue 0.027556650859469237
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 17 found with eigenvalue 0.028449626001396534
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 18 found with eigenvalue 0.030506879722488722
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 19 found with eigenvalue 0.03141858148935687
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 20 found with eigenvalue 0.03300575502311877
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 21 found with eigenvalue 0.0348426355262627
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 22 found with eigenvalue 0.035276832401787285
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 23 found with eigenvalue 0.036420791136491
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 24 found with eigenvalue 0.039193530567093564
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 25 found with eigenvalue 0.03987441099002258
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 26 found with eigenvalue 0.04117187015755446
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 27 found with eigenvalue 0.04324060397941256
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 28 found with eigenvalue 0.045341544101347615
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 29 found with eigenvalue 0.048241819663486805
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 30 found with eigenvalue 0.05053293608192887
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 31 found with eigenvalue 0.05276571349212622
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 32 found with eigenvalue 0.05492840738532377
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 33 found with eigenvalue 0.05750699459886665
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 34 found with eigenvalue 0.06198243096363415
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 35 found with eigenvalue 0.06533860591514284
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 36 found with eigenvalue 0.07280721481540602
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 37 found with eigenvalue 0.0772188365204358
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 38 found with eigenvalue 0.08449647081109042
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 39 found with eigenvalue 0.09160975884532054
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 40 found with eigenvalue 0.10068595658458886
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 41 found with eigenvalue 0.10977215057216241
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 42 found with eigenvalue 0.12573880090650955
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 43 found with eigenvalue 0.1421009619690392
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 44 found with eigenvalue 0.16721795126225025
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 45 found with eigenvalue 0.1998618662480472
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 46 found with eigenvalue 0.2500655693875298
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+��Ϣ: Eigenvector 47 found with eigenvalue 0.33497715734042965
+2012-12-7 10:07:51 org.slf4j.impl.JCLLoggerAdapter info
+�
